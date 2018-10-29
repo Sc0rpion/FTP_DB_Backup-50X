@@ -1,9 +1,9 @@
 # FTP_DB_Backup-50X
 
-Dont forget change ip ps4 to your in db_backup.sh  ip_ps4
-
 FTP_DB_Backup-50X .sh script to create backups via ftp payload.
 You will need any unix machine (pc, nas, raspberry, ...) and PS4 with 5.05
+
+Dont forget change ip ps4 to your in db_backup.sh  ip_ps4
 
 Run ftp payload on ps4 and start db_backup.sh
 By default, the BackUp will be executed in the folder where the location script ./backups/ (the date and time the script was run)
