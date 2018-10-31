@@ -25,7 +25,7 @@ FTP_DB_Backup-50X .sh скрипт для создания backup'ов чере�
 Структура BackUp'а полностью совместима со структурой DB_SG_Backup-50X от stooged
 
 
-# Как запустить на Windows 10: [Оригинал](https://4pda.ru/forum/index.php?showtopic=885825&view=findpost&p=78451365)
+# Как запустить на Windows 10, [Оригинал](https://4pda.ru/forum/index.php?showtopic=885825&view=findpost&p=78451365):
 1. Скачать дистрибутив Ubuntu из Microsoft Store для Win 10.
 2. Запустить Ubuntu - в конце установки надо будет ввести имя пользователя и пароль (их надо придумать)
 3. Домашняя директория убунты будет расположена по пути - C:\Users\*****\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\*****\
@@ -41,7 +41,7 @@ FTP_DB_Backup-50X .sh скрипт для создания backup'ов чере�
 [img](https://preview.ibb.co/kwGdxf/cs5-3-4pda-to.png)
 
 
-# How to run it on Windows 10: [Original](https://4pda.ru/forum/index.php?showtopic=885825&view=findpost&p=78451365)
+# How to run it on Windows 10, [Original](https://4pda.ru/forum/index.php?showtopic=885825&view=findpost&p=78451365):
 1. Download the Ubuntu distribution from the Microsoft Store for Win 10.
 2. Start Ubuntu - at the end of the installation, you will need to enter a username and password (you need to create them)
 3. Ubuntas home directory will be located along the path - C: \ Users \ ***** \ AppData \ Local \ Packages \ CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc \ LocalState \ rootfs \ home \ ***** \
