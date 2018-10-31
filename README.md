@@ -1,6 +1,6 @@
 # FTP_DB_Backup-50X
 
-[Как запустить на Windows 10](https://github.com/Sc0rpion/FTP_DB_Backup-50X/blob/master/README.md#как-запустить-на-windows-10) / [How to run on Windows 10](https://github.com/Sc0rpion/FTP_DB_Backup-50X/blob/master/README.md#how-to-run-it-on-windows-10)
+[Как запустить на Windows 10](https://github.com/Sc0rpion/FTP_DB_Backup-50X/blob/master/README.md#как-запустить-на-windows-10-оригинал) / [How to run on Windows 10](https://github.com/Sc0rpion/FTP_DB_Backup-50X#how-to-run-it-on-windows-10-original)
 
 FTP_DB_Backup-50X .sh script to create backups via ftp payload.
 You will need any unix machine (pc, nas, raspberry, ...) and PS4 with 5.05
